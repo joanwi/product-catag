@@ -147,3 +147,139 @@ export const imageKeywords = [
     ]
   }
   ]
+
+export const imageCropper = [
+  {
+    "group_name": "General Image Cropping",
+    "keywords": [
+      {"keyword": "crop image", "monthly_volume": 273200, "kd": 42},
+      {"keyword": "image crop", "monthly_volume": 51700, "kd": 47},
+      {"keyword": "crop images", "monthly_volume": 14000, "kd": 43},
+      {"keyword": "crop an image", "monthly_volume": 4800, "kd": 47},
+      {"keyword": "crop and image", "monthly_volume": 6600, "kd": 40},
+      {"keyword": "cropimage", "monthly_volume": 2500, "kd": 42},
+      {"keyword": "photo crop image", "monthly_volume": 2200, "kd": 49}
+    ]
+  },
+  {
+    "group_name": "Online Image Cropping",
+    "keywords": [
+      {"keyword": "crop image online", "monthly_volume": 136600, "kd": 38},
+      {"keyword": "image crop online", "monthly_volume": 25500, "kd": 36},
+      {"keyword": "online crop image", "monthly_volume": 11000, "kd": 37},
+      {"keyword": "online image crop", "monthly_volume": 9900, "kd": 33},
+      {"keyword": "image cropper online", "monthly_volume": 10200, "kd": 38},
+      {"keyword": "crop images online", "monthly_volume": 4800, "kd": 38},
+      {"keyword": "online image cropper", "monthly_volume": 4600, "kd": 39},
+      {"keyword": "crop image online free", "monthly_volume": 3300, "kd": 39}
+    ]
+  },
+  {
+    "group_name": "Circle/Round Image Cropping",
+    "keywords": [
+      {"keyword": "circle crop image", "monthly_volume": 28600, "kd": 19},
+      {"keyword": "crop circle image", "monthly_volume": 20800, "kd": 21},
+      {"keyword": "image circle crop", "monthly_volume": 6600, "kd": 19},
+      {"keyword": "crop image circle", "monthly_volume": 6300, "kd": 19},
+      {"keyword": "circle image crop", "monthly_volume": 5600, "kd": 20},
+      {"keyword": "crop image in circle", "monthly_volume": 5100, "kd": 25},
+      {"keyword": "round crop image", "monthly_volume": 4000, "kd": 44},
+      {"keyword": "crop circle image online", "monthly_volume": 4200, "kd": 21},
+      {"keyword": "circular crop image", "monthly_volume": 3500, "kd": 19},
+      {"keyword": "circle crop image online", "monthly_volume": 3400, "kd": 21},
+      {"keyword": "circle image cropper", "monthly_volume": 3300, "kd": 25},
+      {"keyword": "round image crop", "monthly_volume": 3000, "kd": 20},
+      {"keyword": "crop image to circle", "monthly_volume": 4000, "kd": 19},
+      {"keyword": "image crop circle", "monthly_volume": 1300, "kd": 18},
+      {"keyword": "image circle cropper", "monthly_volume": 660, "kd": 20},
+      {"keyword": "canva crop image to circle", "monthly_volume": 1900, "kd": 13},
+      {"keyword": "online image crop in circle", "monthly_volume": 152, "kd": null}
+    ]
+  },
+  {
+    "group_name": "Software-Specific Cropping",
+    "keywords": [
+      {"keyword": "how to crop image in photoshop", "monthly_volume": 8400, "kd": 13},
+      {"keyword": "how to crop an image in photoshop", "monthly_volume": 7600, "kd": 11},
+      {"keyword": "crop image photoshop", "monthly_volume": 5800, "kd": 7},
+      {"keyword": "crop image in photoshop", "monthly_volume": 2500, "kd": 13},
+      {"keyword": "photoshop crop image", "monthly_volume": 3400, "kd": 13},
+      {"keyword": "how to crop image in photoshop without cropping background", "monthly_volume": 1600, "kd": 1},
+      {"keyword": "how to crop an image in photoshop without cropping the canvas", "monthly_volume": 490, "kd": null},
+      {"keyword": "figma crop image", "monthly_volume": 6500, "kd": 2},
+      {"keyword": "how to crop image in figma", "monthly_volume": 3500, "kd": 2},
+      {"keyword": "crop image figma", "monthly_volume": 3500, "kd": 2},
+      {"keyword": "how to crop an image in figma", "monthly_volume": 2100, "kd": 2},
+      {"keyword": "crop image in figma", "monthly_volume": 2400, "kd": 2},
+      {"keyword": "how to crop image in illustrator", "monthly_volume": 3200, "kd": 11},
+      {"keyword": "how to crop an image in illustrator", "monthly_volume": 2800, "kd": 10},
+      {"keyword": "crop image in illustrator", "monthly_volume": 2000, "kd": 11},
+      {"keyword": "illustrator crop image", "monthly_volume": 3100, "kd": 8},
+      {"keyword": "canva crop image", "monthly_volume": 3700, "kd": 15},
+      {"keyword": "how to crop image in canva", "monthly_volume": 2900, "kd": 16},
+      {"keyword": "how to crop an image in canva", "monthly_volume": 1600, "kd": 20},
+      {"keyword": "inkscape crop image", "monthly_volume": 6800, "kd": null},
+      {"keyword": "lightburn crop image", "monthly_volume": 770, "kd": null}
+    ]
+  },
+  {
+    "group_name": "Bulk/Batch Image Cropping",
+    "keywords": [
+      {"keyword": "bulk image crop", "monthly_volume": 5000, "kd": 45},
+      {"keyword": "crop multiple images at once", "monthly_volume": 4200, "kd": 54},
+      {"keyword": "bulk crop images", "monthly_volume": 4300, "kd": 46},
+      {"keyword": "batch crop images", "monthly_volume": 3700, "kd": 45}
+    ]
+  },
+  {
+    "group_name": "AI/Auto Image Cropping",
+    "keywords": [
+      {"keyword": "uncrop image", "monthly_volume": 13900, "kd": 37},
+      {"keyword": "uncrop image ai", "monthly_volume": 4000, "kd": 41},
+      {"keyword": "image uncrop", "monthly_volume": 1800, "kd": 37},
+      {"keyword": "uncrop image ai free", "monthly_volume": 2300, "kd": 33},
+      {"keyword": "free uncrop image", "monthly_volume": 427, "kd": 40},
+      {"keyword": "image uncropper", "monthly_volume": 371, "kd": 43},
+      {"keyword": "ai crop image", "monthly_volume": 2100, "kd": 30},
+      {"keyword": "ai image cropper", "monthly_volume": 1500, "kd": 30},
+      {"keyword": "auto crop image", "monthly_volume": 4100, "kd": 47},
+      {"keyword": "auto image cropper", "monthly_volume": 822, "kd": 59}
+    ]
+  },
+  {
+    "group_name": "Other Cropping-Related",
+    "keywords": [
+      {"keyword": "image cropper", "monthly_volume": 102100, "kd": 43},
+      {"keyword": "image croper", "monthly_volume": 5100, "kd": 47},
+      {"keyword": "how to crop image on mac", "monthly_volume": 5100, "kd": 11},
+      {"keyword": "crop image mac", "monthly_volume": 4100, "kd": 10},
+      {"keyword": "how to crop image in mac", "monthly_volume": 1900, "kd": 3},
+      {"keyword": "crop image in mac", "monthly_volume": 2300, "kd": 5},
+      {"keyword": "how to crop images on mac", "monthly_volume": 1600, "kd": 12},
+      {"keyword": "mac crop image", "monthly_volume": 2800, "kd": 13},
+      {"keyword": "how to crop image in macbook", "monthly_volume": 1600, "kd": 7},
+      {"keyword": "how to crop an image in windows", "monthly_volume": 276, "kd": 6},
+      {"keyword": "how to crop an image in windows 11", "monthly_volume": 207, "kd": 13},
+      {"keyword": "crop and resize image", "monthly_volume": 4300, "kd": 77},
+      {"keyword": "image crop and resize", "monthly_volume": 2900, "kd": 75},
+      {"keyword": "crop resize image", "monthly_volume": 2100, "kd": 84},
+      {"keyword": "crop image without losing quality", "monthly_volume": 3200, "kd": 45},
+      {"keyword": "resize image for instagram without cropping", "monthly_volume": 3900, "kd": 50},
+      {"keyword": "resize image for whatsapp dp without cropping", "monthly_volume": 2900, "kd": 59},
+      {"keyword": "crop image mm size", "monthly_volume": 345, "kd": 26},
+      {"keyword": "crop svg image for free", "monthly_volume": 201, "kd": 32},
+      {"keyword": "crop png image", "monthly_volume": 1400, "kd": 37},
+      {"keyword": "crop image png", "monthly_volume": 891, "kd": 54},
+      {"keyword": "crop webp image", "monthly_volume": 2600, "kd": 30},
+      {"keyword": "free crop image", "monthly_volume": 1000, "kd": 48},
+      {"keyword": "crop image freehand", "monthly_volume": 1700, "kd": 28},
+      {"keyword": "free hand crop image", "monthly_volume": 2700, "kd": 31},
+      {"keyword": "crop image into circle", "monthly_volume": 2200, "kd": 21},
+      {"keyword": "css crop image", "monthly_volume": 3200, "kd": 36},
+      {"keyword": "image_cropper", "monthly_volume": 3800, "kd": 34},
+      {"keyword": "react image crop", "monthly_volume": 3200, "kd": 24},
+      {"keyword": "image cropper flutter", "monthly_volume": 1800, "kd": 9},
+      {"keyword": "image crop tool", "monthly_volume": 1200, "kd": 34}
+    ]
+  }
+]
