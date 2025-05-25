@@ -283,3 +283,215 @@ export const imageCropper = [
     ]
   }
 ]
+
+export const imageResizer = [
+  {
+    "group_name": "Image Resizing and Conversion",
+    "keywords": [
+      {"Keyword": "3000x3000 image", "Difficulty": 0, "Volume": 700},
+      {"Keyword": "3000x3000 image converter", "Difficulty": 0, "Volume": 600},
+      {"Keyword": "3000x3000 converter", "Difficulty": 0, "Volume": 500},
+      {"Keyword": "3000x3000 square jpg format", "Difficulty": 0, "Volume": 100},
+      {"Keyword": "3000 x 3000", "Difficulty": 0, "Volume": 200},
+      {"Keyword": "make image 3000 x 3000", "Difficulty": 0, "Volume": 150},
+      {"Keyword": "resize image to 3000x3000", "Difficulty": 0, "Volume": 150},
+      {"Keyword": "convert photo to 3000x3000", "Difficulty": 12, "Volume": 70},
+      {"Keyword": "3000x3000 image size", "Difficulty": 0, "Volume": 100},
+      {"Keyword": "make picture 3000x3000", "Difficulty": 0, "Volume": 80},
+      {"Keyword": "3000 x 3000 pixels", "Difficulty": 0, "Volume": 100},
+      {"Keyword": "3000 x 3000 pixels converter", "Difficulty": 0, "Volume": 60},
+      {"Keyword": "300x300 image", "Difficulty": 0, "Volume": 600},
+      {"Keyword": "300x300 image converter", "Difficulty": 0, "Volume": 200},
+      {"Keyword": "make image 300x300", "Difficulty": 0, "Volume": 100},
+      {"Keyword": "400x400 image", "Difficulty": 0, "Volume": 200},
+      {"Keyword": "400x400 picture", "Difficulty": 0, "Volume": 80},
+      {"Keyword": "400px by 400px", "Difficulty": 0, "Volume": 90},
+      {"Keyword": "400px by 400px images", "Difficulty": 0, "Volume": 10},
+      {"Keyword": "400 x 400 pixels", "Difficulty": 0, "Volume": 40},
+      {"Keyword": "512x512 image converter", "Difficulty": 0, "Volume": 200},
+      {"Keyword": "512 x 512", "Difficulty": 0, "Volume": 100},
+      {"Keyword": "512 x 512 converter", "Difficulty": 0, "Volume": 150},
+      {"Keyword": "512 x 512 image", "Difficulty": 0, "Volume": 70},
+      {"Keyword": "make image 512x512", "Difficulty": 0, "Volume": 100},
+      {"Keyword": "resize image to 512x512", "Difficulty": 19, "Volume": 70},
+      {"Keyword": "512 x 512 pfp", "Difficulty": 0, "Volume": 50},
+      {"Keyword": "512 x 512 picture", "Difficulty": 0, "Volume": 10},
+      {"Keyword": "100x100 image", "Difficulty": 0, "Volume": 150},
+      {"Keyword": "100x100 image converter", "Difficulty": 20, "Volume": 100},
+      {"Keyword": "100x100 pixel image", "Difficulty": 0, "Volume": 60},
+      {"Keyword": "100 by 100 image", "Difficulty": 23, "Volume": 20},
+      {"Keyword": "1000 x 1000 converter", "Difficulty": 14, "Volume": 60},
+      {"Keyword": "1000 x 1000 picture", "Difficulty": 6, "Volume": 30},
+      {"Keyword": "500 x 500 converter", "Difficulty": 0, "Volume": 20},
+      {"Keyword": "1400 x 1400 image", "Difficulty": 0, "Volume": 80},
+      {"Keyword": "150 x 150 pixels", "Difficulty": 0, "Volume": 60},
+      {"Keyword": "300 x 3000", "Difficulty": 0, "Volume": 60},
+      {"Keyword": "800 pixels wide 200 pixels tall", "Difficulty": 0, "Volume": 30},
+      {"Keyword": "resize image to 1920x1080", "Difficulty": 12, "Volume": 100},
+      {"Keyword": "convert image to 1920x1080", "Difficulty": 8, "Volume": 60},
+      {"Keyword": "16 9 image", "Difficulty": 15, "Volume": 20}
+    ]
+  },
+  {
+    "group_name": "Image Cropping and Cutting",
+    "keywords": [
+      {"Keyword": "how to crop someone out of a photo", "Difficulty": 0, "Volume": 600},
+      {"Keyword": "free hand crop image", "Difficulty": 22, "Volume": 200},
+      {"Keyword": "freehand crop", "Difficulty": 2, "Volume": 100},
+      {"Keyword": "freeform crop", "Difficulty": 11, "Volume": 100},
+      {"Keyword": "crop photo to 2x2", "Difficulty": 8, "Volume": 150},
+      {"Keyword": "resize photo to 2x2", "Difficulty": 1, "Volume": 100},
+      {"Keyword": "resize photo to 2x2 free", "Difficulty": 8, "Volume": 150},
+      {"Keyword": "2x2 picture size online free download", "Difficulty": 26, "Volume": 200},
+      {"Keyword": "2x2 picture converter", "Difficulty": 11, "Volume": 50},
+      {"Keyword": "convert image to 2x2", "Difficulty": 7, "Volume": 60},
+      {"Keyword": "resize picture to 2x2", "Difficulty": 5, "Volume": 40},
+      {"Keyword": "passport photo cutter", "Difficulty": 0, "Volume": 100},
+      {"Keyword": "avatar crop", "Difficulty": 1, "Volume": 100},
+      {"Keyword": "discord crop", "Difficulty": 1, "Volume": 40},
+      {"Keyword": "discord pfp crop", "Difficulty": 1, "Volume": 100},
+      {"Keyword": "svg cropper", "Difficulty": 29, "Volume": 150},
+      {"Keyword": "batch crop images", "Difficulty": 12, "Volume": 200},
+      {"Keyword": "shape cutout", "Difficulty": 2, "Volume": 10},
+      {"Keyword": "how to crop a picture into another", "Difficulty": 22, "Volume": 10}
+    ]
+  },
+  {
+    "group_name": "GIF Editing",
+    "keywords": [
+      {"Keyword": "gif trimmer", "Difficulty": 24, "Volume": 1200},
+      {"Keyword": "cut gif", "Difficulty": 5, "Volume": 1100},
+      {"Keyword": "trim gif", "Difficulty": 17, "Volume": 900},
+      {"Keyword": "gif cutter", "Difficulty": 13, "Volume": 900},
+      {"Keyword": "trim gif online", "Difficulty": 13, "Volume": 80},
+      {"Keyword": "cut gif online", "Difficulty": 18, "Volume": 70}
+    ]
+  },
+  {
+    "group_name": "Instagram-Specific Tools",
+    "keywords": [
+      {"Keyword": "instagram grid maker", "Difficulty": 6, "Volume": 3200},
+      {"Keyword": "instagram carousel splitter", "Difficulty": 12, "Volume": 500},
+      {"Keyword": "image splitter for instagram", "Difficulty": 12, "Volume": 400},
+      {"Keyword": "instagram photo splitter", "Difficulty": 23, "Volume": 250},
+      {"Keyword": "instagram grid post", "Difficulty": 15, "Volume": 150},
+      {"Keyword": "instagram photo grid", "Difficulty": 14, "Volume": 100},
+      {"Keyword": "instagram cropping", "Difficulty": 12, "Volume": 60},
+      {"Keyword": "how to make a photo fit on instagram", "Difficulty": 9, "Volume": 200},
+      {"Keyword": "how to fit pictures on instagram", "Difficulty": 9, "Volume": 90},
+      {"Keyword": "how to get a photo to fit instagram", "Difficulty": 7, "Volume": 10},
+      {"Keyword": "9 square template", "Difficulty": 12, "Volume": 20}
+    ]
+  },
+  {
+    "group_name": "Image Quality Adjustment",
+    "keywords": [
+      {"Keyword": "low resolution image", "Difficulty": 20, "Volume": 1100},
+      {"Keyword": "make image low quality", "Difficulty": 8, "Volume": 600},
+      {"Keyword": "low res image", "Difficulty": 8, "Volume": 300},
+      {"Keyword": "low resolution photo", "Difficulty": 4, "Volume": 100},
+      {"Keyword": "low res photo", "Difficulty": 24, "Volume": 90},
+      {"Keyword": "low quality image converter", "Difficulty": 11, "Volume": 200},
+      {"Keyword": "low quality pics", "Difficulty": 5, "Volume": 50},
+      {"Keyword": "low res picture", "Difficulty": 23, "Volume": 60},
+      {"Keyword": "lower picture quality", "Difficulty": 15, "Volume": 100},
+      {"Keyword": "how to make a picture low quality", "Difficulty": 8, "Volume": 40},
+      {"Keyword": "lowest quality image", "Difficulty": 25, "Volume": 40},
+      {"Keyword": "lowest quality picture", "Difficulty": 21, "Volume": 10},
+      {"Keyword": "low quality pic", "Difficulty": 9, "Volume": 10},
+      {"Keyword": "poor quality photo", "Difficulty": 22, "Volume": 20},
+      {"Keyword": "increase file size", "Difficulty": 11, "Volume": 150},
+      {"Keyword": "compress image to 2mb", "Difficulty": 0, "Volume": 150},
+      {"Keyword": "resize image to 2mb", "Difficulty": 0, "Volume": 150},
+      {"Keyword": "increase image size in mb", "Difficulty": 8, "Volume": 90},
+      {"Keyword": "increase image size in kb", "Difficulty": 26, "Volume": 70},
+      {"Keyword": "increase jpg size", "Difficulty": 12, "Volume": 70},
+      {"Keyword": "resolution scaler", "Difficulty": 14, "Volume": 90},
+      {"Keyword": "photo dpi converter", "Difficulty": 4, "Volume": 30}
+    ]
+  },
+  {
+    "group_name": "Profile Picture (PFP) Customization",
+    "keywords": [
+      {"Keyword": "pfp border", "Difficulty": 0, "Volume": 800},
+      {"Keyword": "pfp outline", "Difficulty": 28, "Volume": 150},
+      {"Keyword": "pfp circle border", "Difficulty": 21, "Volume": 150},
+      {"Keyword": "pfp borders", "Difficulty": 5, "Volume": 150},
+      {"Keyword": "pfp ring", "Difficulty": 26, "Volume": 80},
+      {"Keyword": "round pfp maker", "Difficulty": 24, "Volume": 150},
+      {"Keyword": "discord pfp resizer", "Difficulty": 15, "Volume": 150},
+      {"Keyword": "discord profile maker", "Difficulty": 28, "Volume": 150},
+      {"Keyword": "square pfp", "Difficulty": 2, "Volume": 70},
+      {"Keyword": "letter profile picture", "Difficulty": 0, "Volume": 90},
+      {"Keyword": "draw pfp", "Difficulty": 0, "Volume": 30}
+    ]
+  },
+  {
+    "group_name": "Grid and Collage Makers",
+    "keywords": [
+      {"Keyword": "grid pictures", "Difficulty": 12, "Volume": 400},
+      {"Keyword": "image grid", "Difficulty": 9, "Volume": 250},
+      {"Keyword": "grid maker online", "Difficulty": 19, "Volume": 200},
+      {"Keyword": "grid photo maker", "Difficulty": 11, "Volume": 200},
+      {"Keyword": "3x3 grid maker", "Difficulty": 13, "Volume": 100},
+      {"Keyword": "picture grid maker", "Difficulty": 12, "Volume": 100},
+      {"Keyword": "free grid maker", "Difficulty": 30, "Volume": 150},
+      {"Keyword": "photo gridder", "Difficulty": 12, "Volume": 60},
+      {"Keyword": "grid image generator", "Difficulty": 12, "Volume": 80},
+      {"Keyword": "picture grid generator", "Difficulty": 12, "Volume": 40},
+      {"Keyword": "photo grid generator", "Difficulty": 18, "Volume": 40},
+      {"Keyword": "3x3 photo grid", "Difficulty": 4, "Volume": 30},
+      {"Keyword": "3x3 collage", "Difficulty": 4, "Volume": 10}
+    ]
+  },
+  {
+    "group_name": "Square Image Tools",
+    "keywords": [
+      {"Keyword": "make image square", "Difficulty": 4, "Volume": 450},
+      {"Keyword": "square pictures", "Difficulty": 20, "Volume": 400},
+      {"Keyword": "square image converter", "Difficulty": 26, "Volume": 150},
+      {"Keyword": "make picture square", "Difficulty": 16, "Volume": 90},
+      {"Keyword": "make photo square", "Difficulty": 15, "Volume": 80},
+      {"Keyword": "resize image to square", "Difficulty": 4, "Volume": 100},
+      {"Keyword": "square photo online", "Difficulty": 26, "Volume": 20}
+    ]
+  },
+  {
+    "group_name": "Curved Text and Image Effects",
+    "keywords": [
+      {"Keyword": "curved text generator", "Difficulty": 3, "Volume": 3700},
+      {"Keyword": "curve image generator", "Difficulty": 12, "Volume": 80},
+      {"Keyword": "curve image", "Difficulty": 11, "Volume": 60},
+      {"Keyword": "curve picture", "Difficulty": 5, "Volume": 20},
+      {"Keyword": "curve text generator free", "Difficulty": 4, "Volume": 30}
+    ]
+  },
+  {
+    "group_name": "Copy, Paste, and Photo Editing",
+    "keywords": [
+      {"Keyword": "copy and paste image", "Difficulty": 23, "Volume": 100},
+      {"Keyword": "pic cutter and paste", "Difficulty": 30, "Volume": 150},
+      {"Keyword": "cut paste photo editor", "Difficulty": 11, "Volume": 10},
+      {"Keyword": "photo paste", "Difficulty": 19, "Volume": 10},
+      {"Keyword": "paste photo on photo", "Difficulty": 30, "Volume": 10},
+      {"Keyword": "how to edit someone out of a photo", "Difficulty": 9, "Volume": 150},
+      {"Keyword": "how to edit a person out of a picture", "Difficulty": 5, "Volume": 10}
+    ]
+  },
+  {
+    "group_name": "Miscellaneous Design and Formatting",
+    "keywords": [
+      {"Keyword": "css circle", "Difficulty": 21, "Volume": 250},
+      {"Keyword": "square in a circle calculator", "Difficulty": 23, "Volume": 100},
+      {"Keyword": "pipe square", "Difficulty": 0, "Volume": 150},
+      {"Keyword": "pipefitter square", "Difficulty": 0, "Volume": 40},
+      {"Keyword": "before and after picture maker online free", "Difficulty": 28, "Volume": 70},
+      {"Keyword": "3d photo editor", "Difficulty": 26, "Volume": 30},
+      {"Keyword": "distort image online", "Difficulty": 6, "Volume": 40},
+      {"Keyword": "photo distortion online", "Difficulty": 4, "Volume": 10},
+      {"Keyword": "best profile", "Difficulty": 24, "Volume": 150},
+      {"Keyword": "perfect profile", "Difficulty": 30, "Volume": 100},
+      {"Keyword": "youtube to mp4 crop", "Difficulty": 30, "Volume": 200}
+    ]
+  }
+]

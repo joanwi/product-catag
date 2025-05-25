@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { categories } from "@/lib/productCategories";
-import { imageKeywords, imageCropper } from "@/lib/imageKeywords";
+import { imageKeywords, imageCropper, imageResizer } from "@/lib/imageKeywords";
 import {
   Table,
   TableBody,
@@ -29,6 +29,12 @@ const dataSources = {
   imageCrop: {
     label: "Image Crop",
     getGroups: () => imageCropper,
+    getGroupName: (group: any) => group.group_name,
+    getItems: (group: any) => group.keywords,
+  },
+  imageResizer: {
+    label: "Image Resizer",
+    getGroups: () => imageResizer,
     getGroupName: (group: any) => group.group_name,
     getItems: (group: any) => group.keywords,
   },
